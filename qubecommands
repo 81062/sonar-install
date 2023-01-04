@@ -192,3 +192,5 @@ WantedBy=multi-user.target
 
  sudo systemctl enable sonar
  sudo systemctl  start sonar
+ installing process
+ 
